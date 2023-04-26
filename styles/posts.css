@@ -1,0 +1,33 @@
+.posts_container {
+  width: 80%;
+  margin: 30px auto 0;
+}
+
+.post {
+  width: 100%;
+  margin: 25px 0;
+  padding: 10px 20px;
+  border-radius: 10px;
+  box-shadow: 1px 0px 10px gray;
+}
+
+.post > h1 {
+  font-size: 24px;
+}
+
+.post > h2 {
+  font-size: 20px;
+  margin: 2px 0;
+  color: gray;
+}
+
+.post > h3 {
+  font-size: 16px;
+  margin: 2px 0;
+  color: gray;
+}
+
+.post > p {
+  font-size: 16px;
+  color: gray;
+}
