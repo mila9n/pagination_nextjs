@@ -1,8 +1,7 @@
-import React from "react";
 import AllPosts from "./allPosts";
 import Pagination from "./pagination";
 
-const page = () => {
+const Page = () => {
   return (
     <div>
       <AllPosts />
@@ -11,4 +10,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;

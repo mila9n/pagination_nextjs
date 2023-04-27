@@ -1,4 +1,4 @@
-import { ContextProvider } from "@/components/client";
+import { ContextProvider } from "../components/client";
 
 export const metadata = {
   title: "Pagination App",
